@@ -1,0 +1,6 @@
+source "C:/Users/SS2021_Lenovo/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/SS2021_Lenovo/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/SS2021_Lenovo/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/SS2021_Lenovo/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/SS2021_Lenovo/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/SS2021_Lenovo/Desktop/lora_rx_v7/main/Kconfig.projbuild"
